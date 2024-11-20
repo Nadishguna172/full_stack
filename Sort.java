@@ -3,7 +3,7 @@ class Sort {
     public static void main(String[] args)
     {
         int arr[] = { 4, 3, 2, 1 };
-        System.out.println(" Bubble Sorting Program in java");
+        System.out.println("Bubble Sorting Program in java");
         System.out.println("Sorting output:");
         for (int i = 0; i < arr.length; i++) {
 
