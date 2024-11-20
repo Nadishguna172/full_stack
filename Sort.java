@@ -4,7 +4,7 @@ class Sort {
     {
         int arr[] = { 4, 3, 2, 1 };
         System.out.println("Sorting Program in java");
-
+        System.out.println("Sorting output:");
         for (int i = 0; i < arr.length; i++) {
 
             for (int j = i + 1; j < arr.length; j++) {
